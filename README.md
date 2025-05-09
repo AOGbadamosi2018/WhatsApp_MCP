@@ -14,7 +14,7 @@ This project implements an MCP server that provides a tool to send WhatsApp mess
 ```
 TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
-TWILIO_WHATSAPP_FROM_NUMBER=your_whatsapp_number
+TWILIO_WHATSAPP_FROM_NUMBER=twilio_whatsapp_sandbox
 ```
 
 2. Install dependencies:
